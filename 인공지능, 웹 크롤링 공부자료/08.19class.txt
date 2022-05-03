@@ -1,0 +1,11 @@
+텍스트=비정형 데이터
+
+Sentiment analtsis ≒ opinisn mining
+
+Trend analysis -> k-means
+
+stemming algorithm 기반
+명사기반
+
+Trend분석=Topic 모델링
+
